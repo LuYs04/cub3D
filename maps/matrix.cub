@@ -1,0 +1,14 @@
+NO textures/matrix.xpm
+SO textures/matrix.xpm
+WE textures/matrix.xpm
+EA textures/matrix.xpm
+
+C 35,19,73
+F 15,6,40
+
+1111111111
+1000000011
+1000000001
+10E0000001
+1000000001
+1111111111
